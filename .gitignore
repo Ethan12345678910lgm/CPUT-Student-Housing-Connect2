@@ -1,0 +1,16 @@
+﻿# Java / Maven
+target/
+*.log
+*.iml
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iws
+*.ipr
+
+# Node / React (if applicable)
+node_modules/
+dist/
+build/
+*.env
